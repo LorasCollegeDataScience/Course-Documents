@@ -1,7 +1,7 @@
 ---
 title: "Syllabus for Intro to Data Science"
 author: "Matt Rissler, PhD"
-date: "August 29, 2016"
+date: "August 29, 2017"
 output: pdf_document
 ---
 
@@ -28,11 +28,10 @@ output: pdf_document
 ###Office Hours
 |Day     |Time   |Location|
 |--------:|:------|:---------|
-|Monday, Friday| 11:00am-12:30pm | HENN 209|
+|Monday | 11:00am-12:00pm | HENN 209|
 |Tuesday, Thursday | 9am-12pm | HENN 209|
-|Tuesday | 6:30-7:45pm | |
-|Thursday | 9-11am | Math Lab (Headwaters)|
-
+|Tuesday | 6:30-7:30pm | HENN 250 (Tasty Tuesdays) |
+| Friday| 11:00am-1:00pm | Math Lab (Headwaters)|
 
 ##Resources
 
@@ -114,7 +113,7 @@ The last day to add a semester-long course is Friday, September 1. The last day 
 | 8  | Joining tibbles |
 | 9  | Shiny |
 | 10 | Modeling |
-| 11-14 | Project Work |
+| 11-15 | Project Work |
 
 
 
