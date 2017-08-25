@@ -2,7 +2,9 @@
 title: "Syllabus for Intro to Data Science"
 author: "Matt Rissler, PhD"
 date: "August 29, 2017"
-output: pdf_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 #Course Information
