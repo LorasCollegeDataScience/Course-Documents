@@ -1,0 +1,130 @@
+---
+title: "Syllabus for Intro to Data Science"
+author: "Matt Rissler, PhD"
+date: "August 29, 2017"
+output: ioslides_presentation
+---
+
+##Course Information
+|Type        | Information|
+|-----------:|:---------------------------|
+|Course Title| Introduction to Data Science|
+|Course Number| BAN 330|
+|Credit Hours | 3|
+|Meeting Time | TTh 2:00-3:20|
+|Meeting Location | HENN 350 |
+|Instructor | Matt Rissler, PhD|
+|Prerequisites | MAT 220, CIT 115|
+
+##Instructor Information
+
+|Type        | Information|
+|-----------:|:---------------------------|
+|Email| matthew.rissler@loras.edu|
+|Office Phone | 563.588.7792 |
+|Office | HENN 209 |
+|twitter  | @discnerd |
+
+##Office Hours
+|Day     |Time   |Location|
+|--------:|:------|:---------|
+|Monday | 11:00am-12:00pm | HENN 209|
+|Tuesday, Thursday | 9am-12pm | HENN 209|
+|Tuesday | 6:30-7:30pm | HENN 250 (Tasty Tuesdays) |
+| Friday| 11:00am-1:00pm | Math Lab (Headwaters)|
+
+#Resources
+
+##Textbooks
+
+* *R for Data Science*, by Garrett Grolemund and Hadley Wickham. <http://r4ds.had.co.nz/>, ISBN-13 978-1-491-91039-9.
+
+
+##Software
+
+* R   <https://cran.r-project.org/bin/windows/base/>
+* RStudio  <https://www.rstudio.com/products/rstudio/download2/>
+* git <https://git-scm.com/downloads>
+* gitKraken <https://www.gitkraken.com/download/windows64>
+* various packages in R
+          
+
+##Course Description
+Data science is the process of collecting, cleaning, analyzing, summarizing and presenting data in a scalable and generalizable manner. In this course, students will learn each of these steps using appropriate software and techniques culminating in a project.
+
+##Course Objectives
+1.	Students should work with data that comes from real-world sources.
+2.	Students should analyze data using a variety of techniques and algorithms.
+3.	Students should communicate about data and work in teams.
+4.	Students should utilize methods that will work, even if the data is “big”.
+
+##Learning Outcomes
+A student who completes this course will be able to:
+
+1.	Import data from a variety of sources and clean and verify this data.
+2.	Use appropriate software to store and analyze data.
+3.	Create informative and appropriate visualizations of data.
+4.	Calculate and use correctly statistics for multiple scales of data.
+5.	Carry out multiple types of regression and clustering algorithms and interpret their results.
+6.	Communicate their findings in written and oral forms.
+
+#Assessment and Grading
+
+##Homework
+30% of the final grade - Homework sets will provide students practice and feedback for the concepts and processes covered in class. All homework assignments will require students to communicate their process and interpret the findings for the problem.  To facilitate this, all homework should be submitted as compiled RMarkdown documents on eLearn.
+
+##Final Project
+30% of the final grade - A comprehensive semester-long, group project will provide students with the opportunity to utilize the skills learned in the class in a summative experience that requires the synthesis of all skills. Students will report their findings both in writing and in a short presentation at the end of the course with intermediate reflections and reports occurring during the semester.
+
+## Exams
+20% of the final grade each - Two exams reasonably spaced apart.  Maybe one midterm and one final, or two midterms with no final. - Exams will assess the students on their ability to carry out the processes of the course in controlled simpler problems.
+
+#Policies
+
+##Academic Dishonesty 
+
+Please refer to the Loras College Academic Honesty Policy.  It can be found at <http://lorasedu.sharepoint.com/Academics/IQ/Documents/Academic%20Honesty%20Policy.doc>
+
+##Learning Disabilities
+
+In accordance with federal law, if you have a diagnosed disability or believe that you have a disability that might require reasonable accommodations, please feel free to discuss your needs with me at your earliest convenience.  Documentation of your disability must be on file with the Office of Disability Services (ODS), 120 Academic Resource Center, (563-588-7134) for you to receive accommodations. 
+
+##Expectation for Class Attendance
+
+You are expected to attend every class.  If you are going to miss class, email me beforehand.  Assignments will be given in class randomly.  Attendance will not be taken, but it will be obvious if you are not there. Note the policy for missed activities and exams.
+
+##Withdrawal Date
+
+- The last day to add a semester-long course is Friday, September 1. 
+
+- The last day to withdraw from this class without a ‘W’ is Friday, September 15. 
+
+- The last day to withdraw with a grade of ‘W’ is Friday, October 27.
+
+
+##Tentative Schedule
+
+
+|Week| Topic(s)|
+|----|---------|
+| 1  | Workflow and Stats Review|
+| 2  | More Workflow |
+| 3  | Intro to Making Pretty Pictures |
+| 4  | Working with tibbles |
+| 5  | Import Data |
+| 6  | Import Data again |
+
+
+##Tentative Schedule
+
+|Week| Topic(s)|
+|----|---------|
+| 7  | More working with tibbles |
+| 8  | Joining tibbles |
+| 9  | Shiny |
+| 10 | Modeling |
+| 11-15 | Project Work |
+
+
+
+
