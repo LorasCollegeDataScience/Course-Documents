@@ -14,7 +14,7 @@ output:
 |Course Number| BAN 330|
 |Credit Hours | 3|
 |Meeting Time | TTh 2:00-3:20|
-|Meeting Location | HENN 350 |
+|Meeting Location | HENN 270 |
 |Instructor | Matt Rissler, PhD|
 |Prerequisites | MAT 220, CIT 115|
 
